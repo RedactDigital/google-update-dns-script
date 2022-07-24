@@ -7,6 +7,7 @@ Just fill in your google username and password in the variable declarations, als
 To go a step further, add it to cron and run it every minute EX 
 ``` 
 */1 * * * * /bin/bash ~/<path-to-file>/google-dns-update.sh
+```
 
 # Digital Ocean dynamic dns script
 
@@ -18,3 +19,4 @@ If you don't know your record ID, there is a script included at the bottom, unco
 To go a step further, add it to cron and run it every minute EX 
 ``` 
 */1 * * * * /bin/bash ~/<path-to-file>/google-dns-update.sh
+```
